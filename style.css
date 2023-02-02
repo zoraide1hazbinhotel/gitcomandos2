@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(116, 176, 179);
+}
+.container{
+    border: 2px solid rgb(146, 146, 167);
+    box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6),
+    -9px -9px 16px rgba(255, 255, 255, 0.5);
+    width: 600px;
+    margin:auto;
+    margin-top: 50px;
+    background-color: beige;
+    padding: 10px 10px;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 70%;
+    padding: 10px 85px ;
+}
