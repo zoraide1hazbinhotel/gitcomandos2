@@ -1,0 +1,2 @@
+alert("Bienvenida a DororoWiki")
+
